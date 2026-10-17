@@ -1,16 +1,39 @@
-# React + Vite
+# 👤 User Cards Using Props - React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive React application that displays user profile cards using reusable Props. This project demonstrates the core concept of Props in React.
 
-Currently, two official plugins are available:
+### 🚀 Live Demo
+[Click here to view live project](#) - (Vercel link baad me add karenge)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### ✨ Features
+- Reusable Card Component using Props
+- Clean and Modern UI with Tailwind CSS
+- Fully Responsive Design
+- Dynamic User Data Rendering
+- 9 Professional User Profiles with Images
 
-## React Compiler
+### 🛠️ Tech Stack
+- **React.js** - Frontend Library
+- **Vite** - Build Tool
+- **Tailwind CSS** - Styling
+- **JavaScript (ES6+)** - Logic
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 📦 What I Learned
+- How to create reusable components in React
+- How to pass data using Props
+- Component-based architecture
+- Styling with Tailwind CSS
 
-## Expanding the ESLint configuration
+### 💻 How to Run Locally
+```bash
+# Clone the repo
+git clone https://github.com/tariqhussainofficial03-div/User-Cards-Using-Props.git
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Go to folder
+cd User-Cards-Using-Props
+
+# Install dependencies
+npm install
+
+# Run the project
+npm run dev
