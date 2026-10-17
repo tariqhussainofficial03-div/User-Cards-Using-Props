@@ -3,7 +3,7 @@
 A modern and responsive React application that displays user profile cards using reusable Props. This project demonstrates the core concept of Props in React.
 
 ### 🚀 Live Demo
-[Click here to view live project](#) - (Vercel link baad me add karenge)
+[https://user-cards-using-propsdrilling.netlify.app/](#) - (Vercel link baad me add karenge)
 
 ### ✨ Features
 - Reusable Card Component using Props
